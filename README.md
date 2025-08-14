@@ -9,10 +9,10 @@ This project serves as a comprehensive submission for a final exam in a data sci
 
 The core objective of this project was to apply key data science methodologies to real-world data challenges. The project's structure addresses the following goals:
 
-  * **Part I: Data Warehousing & OLAP Analysis** 📦
+  * **Part I: Data Warehousing & OLAP Analysis** 
     This section focuses on the principles of data engineering. A raw, transactional dataset was subjected to an **ETL (Extract, Transform, Load)** process. The data was cleaned and transformed before being loaded into a **star schema**, a specific database design optimized for analytical queries. This new structure facilitates **OLAP (Online Analytical Processing)**, allowing for efficient business analysis.
 
-  * **Part II: Data Mining** ⛏️
+  * **Part II: Data Mining** 
     This part of the project applies machine learning techniques to different datasets. It demonstrates proficiency in both **unsupervised learning (clustering)**, used to discover patterns, and **supervised learning (classification)**, used to build predictive models. The project also includes a practical application of **association rule mining** to uncover relationships between items.
 
 -----
