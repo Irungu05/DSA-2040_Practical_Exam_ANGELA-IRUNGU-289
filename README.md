@@ -1,7 +1,7 @@
 # DSA-2040_Practical_Exam_ANGELA-IRUNGU-289
-# Data Science Project: End-of-Semester Exam Submission 
+# Project: End-of-Semester Exam Submission 
 
-This project serves as a comprehensive submission for a final exam in a data science course. It demonstrates a complete analytical pipeline, beginning with raw data and concluding with actionable insights derived from both a structured database and various machine learning models. The project is divided into two distinct parts: Data Warehousing and Data Mining.
+This project demonstrates a complete analytical pipeline, beginning with raw data and concluding with actionable insights derived from both a structured database and various machine learning models. The project is divided into two distinct parts: Data Warehousing and Data Mining.
 
 -----
 
